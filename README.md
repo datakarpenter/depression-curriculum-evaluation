@@ -1,4 +1,4 @@
 # depression-curriculum-evaluation
-2.	Pandhi N, Gaines ME, Deci D, Schlesinger M, Culp C, Karp Z, Legler C, Grob R. Broadening medical students’ exposure to the range of illness experiences: a pilot experimental curriculum trial. Academic Medicine 2019 Jul 23.
+Pandhi N, Gaines ME, Deci D, Schlesinger M, Culp C, Karp Z, Legler C, Grob R. Broadening medical students’ exposure to the range of illness experiences: a pilot experimental curriculum trial. Academic Medicine 2019 Jul 23.
 
 We analyzed the responses from students who completed both the pre and post survey. Quantitative data were analyzed using Stata SE 13.1 for Windows (Stata Corp, College Station, Texas). We calculated descriptive statistics using frequencies, means, and standard deviations. We also performed a univariate analysis and a chi-squared test to test for associations between variables. We then used analysis of variance testing to compare differences in changes to responses to the standardized instruments between the pre and post surveys and the intervention and control groups. The threshold for statistical significance was set at P < .05.
